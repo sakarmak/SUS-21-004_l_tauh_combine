@@ -1,0 +1,18 @@
+ <<< Combine >>> 
+>>> method used is FitDiagnostics
+>>> random number generator seed is 123456
+Missing background ModelConfig 'ModelConfig_bonly' in workspace 'w' in file roostats-mS7Thw.root
+Will make one from the signal ModelConfig 'ModelConfig' setting signal strenth 'r' to zero
+  [WARNING] Found [MuTau_stat18_sig_SRB1] at boundary. 
+  [WARNING] Found [MuTau_stat18_sig_SRB6] at boundary. 
+  [WARNING] Found [MuTau_stat18_sig_SRB11] at boundary. 
+  [WARNING] Found [MuTau_stat18_sig_SRB1] at boundary. 
+  [WARNING] Found [MuTau_stat18_sig_SRB6] at boundary. 
+  [WARNING] Found [MuTau_stat18_sig_SRB11] at boundary. 
+  [WARNING] Found [MuTau_stat18_sig_SRB1] at boundary. 
+  [WARNING] Found [MuTau_stat18_sig_SRB6] at boundary. 
+  [WARNING] Found [MuTau_stat18_sig_SRB11] at boundary. 
+
+ --- FitDiagnostics ---
+Best fit r: 1  -0.763205/+0.867993  (68% CL)
+Done in 0.01 min (cpu), 0.01 min (real)

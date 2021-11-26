@@ -1,0 +1,15 @@
+ <<< Combine >>> 
+>>> method used is FitDiagnostics
+>>> random number generator seed is 123456
+Missing background ModelConfig 'ModelConfig_bonly' in workspace 'w' in file roostats-HjNXxf.root
+Will make one from the signal ModelConfig 'ModelConfig' setting signal strenth 'r' to zero
+  [WARNING] Found [MuTau_stat16_sig_SRB1] at boundary. 
+  [WARNING] Found [MuTau_stat16_sig_SRB11] at boundary. 
+  [WARNING] Found [MuTau_stat16_sig_SRB1] at boundary. 
+  [WARNING] Found [MuTau_stat16_sig_SRB11] at boundary. 
+  [WARNING] Found [MuTau_stat16_sig_SRB1] at boundary. 
+  [WARNING] Found [MuTau_stat16_sig_SRB11] at boundary. 
+
+ --- FitDiagnostics ---
+Best fit r: -0.000219326  -0.533725/+0.707534  (68% CL)
+Done in 0.01 min (cpu), 0.02 min (real)

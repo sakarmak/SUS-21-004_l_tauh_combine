@@ -1,0 +1,91 @@
+diffNuisances run on fitDiagnostics_MuTau17_1000_1.root, at 2021-11-25 15:04:28.070957 with the following options ... {'absolute_values': False, 'show_all_parameters': True, 'format': 'text', 'stol2': 0.5, 'pullDef': '', 'vtol': 0.3, 'stol': 0.1, 'plotfile': 'plots_MuTau17_1000_1.root', 'vtol2': 2.0, 'poi': 'r'}
+
+name                                              b-only fit            s+b fit         rho
+JEC                                           * +0.04, 0.83*     * +0.00, 0.85*       -0.02
+MuTau_stat17_Fake_SRB1                           -0.00, 0.99        -0.00, 0.98       +0.01
+MuTau_stat17_Fake_SRB10                          +0.03, 0.98        +0.00, 0.98       -0.03
+MuTau_stat17_Fake_SRB11                          -0.00, 0.97        -0.00, 0.97       +0.00
+MuTau_stat17_Fake_SRB12                          -0.00, 0.97        +0.00, 0.97       +0.00
+MuTau_stat17_Fake_SRB13                          +0.02, 0.96        -0.00, 0.96       -0.01
+MuTau_stat17_Fake_SRB14                          +0.02, 0.96        -0.00, 0.96       -0.01
+MuTau_stat17_Fake_SRB15                          +0.29, 0.99        +0.00, 0.99       -0.21
+MuTau_stat17_Fake_SRB2                           -0.01, 0.98        +0.00, 0.99       +0.01
+MuTau_stat17_Fake_SRB3                           +0.00, 0.97        -0.00, 0.97       -0.00
+MuTau_stat17_Fake_SRB4                           +0.00, 0.98        -0.00, 0.98       -0.01
+MuTau_stat17_Fake_SRB5                           +0.05, 0.98        +0.00, 0.98       -0.05
+MuTau_stat17_Fake_SRB6                           +0.00, 0.98        -0.00, 0.99       +0.00
+MuTau_stat17_Fake_SRB7                           -0.01, 0.98        -0.00, 0.98       +0.01
+MuTau_stat17_Fake_SRB8                           +0.00, 0.97        +0.00, 0.97       +0.00
+MuTau_stat17_Fake_SRB9                           +0.00, 0.98        -0.00, 0.98       -0.00
+MuTau_stat17_OtherSM_SRB1                        -0.01, 0.98        -0.00, 0.95       +0.06
+MuTau_stat17_OtherSM_SRB10                       +0.01, 0.99        +0.00, 0.99       -0.01
+MuTau_stat17_OtherSM_SRB11                       -0.00, 0.99        -0.00, 0.99       +0.00
+MuTau_stat17_OtherSM_SRB12                       -0.00, 0.99        +0.00, 0.99       +0.00
+MuTau_stat17_OtherSM_SRB13                       +0.01, 0.99        -0.00, 0.99       -0.01
+MuTau_stat17_OtherSM_SRB14                       +0.00, 0.99        -0.00, 0.99       -0.00
+MuTau_stat17_OtherSM_SRB15                       +0.02, 1.00        +0.00, 0.99       -0.02
+MuTau_stat17_OtherSM_SRB2                        -0.01, 0.98        +0.00, 1.01       +0.01
+MuTau_stat17_OtherSM_SRB3                        +0.00, 0.99        -0.00, 0.99       -0.00
+MuTau_stat17_OtherSM_SRB4                        +0.01, 0.98        -0.00, 0.98       -0.01
+MuTau_stat17_OtherSM_SRB5                        +0.03, 0.99        +0.00, 0.99       -0.03
+MuTau_stat17_OtherSM_SRB6                        +0.00, 0.99        -0.00, 0.98       +0.02
+MuTau_stat17_OtherSM_SRB7                        -0.00, 0.99        -0.00, 1.00       +0.00
+MuTau_stat17_OtherSM_SRB8                        +0.00, 0.99        +0.00, 0.99       +0.00
+MuTau_stat17_OtherSM_SRB9                        +0.00, 0.99        -0.00, 0.99       -0.00
+MuTau_stat17_ST_SRB1                             -0.00, 0.99        -0.00, 0.98       +0.06
+MuTau_stat17_ST_SRB10                            +0.02, 0.99        +0.00, 0.99       -0.02
+MuTau_stat17_ST_SRB11                            -0.00, 0.99        -0.00, 0.99       +0.00
+MuTau_stat17_ST_SRB12                            -0.00, 0.99        +0.00, 0.99       +0.00
+MuTau_stat17_ST_SRB13                            +0.01, 0.99        -0.00, 0.99       -0.00
+MuTau_stat17_ST_SRB14                            +0.00, 0.99        -0.00, 0.99       -0.00
+MuTau_stat17_ST_SRB15                            +0.19, 1.00        +0.00, 0.99       -0.14
+MuTau_stat17_ST_SRB2                             -0.00, 0.99        +0.00, 1.04       -0.01
+MuTau_stat17_ST_SRB3                             +0.00, 0.99        -0.00, 0.99       -0.00
+MuTau_stat17_ST_SRB4                             +0.00, 0.99        -0.00, 0.99       -0.00
+MuTau_stat17_ST_SRB5                             +0.03, 0.99        +0.00, 0.99       -0.03
+MuTau_stat17_ST_SRB6                             +0.00, 0.99        -0.00, 0.99       +0.00
+MuTau_stat17_ST_SRB7                             -0.00, 0.99        -0.00, 0.99       +0.02
+MuTau_stat17_ST_SRB8                             +0.00, 0.99        +0.00, 0.99       +0.00
+MuTau_stat17_ST_SRB9                             +0.00, 0.99        -0.00, 0.99       -0.00
+MuTau_stat17_TT_SRB1                             -0.01, 0.96        -0.00, 0.96       +0.06
+MuTau_stat17_TT_SRB10                            +0.06, 0.91        +0.00, 0.91       -0.06
+MuTau_stat17_TT_SRB11                            -0.00, 0.90        -0.00, 0.90       +0.00
+MuTau_stat17_TT_SRB12                            -0.01, 0.90        +0.00, 0.91       +0.01
+MuTau_stat17_TT_SRB13                            +0.03, 0.91        -0.00, 0.91       -0.02
+MuTau_stat17_TT_SRB14                            +0.03, 0.91        -0.00, 0.91       -0.03
+MuTau_stat17_TT_SRB15                            +0.29, 1.00        +0.00, 0.99       -0.20
+MuTau_stat17_TT_SRB2                             -0.02, 0.94        +0.00, 0.94       +0.02
+MuTau_stat17_TT_SRB3                             +0.00, 0.91        -0.00, 0.91       -0.00
+MuTau_stat17_TT_SRB4                             +0.01, 0.90        -0.00, 0.91       -0.02
+MuTau_stat17_TT_SRB5                             +0.11, 0.91        +0.00, 0.92       -0.12
+MuTau_stat17_TT_SRB6                             +0.00, 0.94        -0.00, 0.96       +0.01
+MuTau_stat17_TT_SRB7                             -0.02, 0.93        -0.00, 0.93       +0.03
+MuTau_stat17_TT_SRB8                             +0.00, 0.91        +0.00, 0.91       +0.00
+MuTau_stat17_TT_SRB9                          * +0.01, 0.90*     * -0.00, 0.90*       -0.01
+MuTau_stat17_sig_SRB1                            +0.00, 0.99        -0.00, 0.99       +0.05
+MuTau_stat17_sig_SRB10                           +0.00, 0.99        +0.00, 0.99       -0.00
+MuTau_stat17_sig_SRB11                           +0.00, 0.99        -0.00, 0.99       -0.00
+MuTau_stat17_sig_SRB12                           +0.00, 0.99        +0.00, 0.99       +0.00
+MuTau_stat17_sig_SRB13                           +0.00, 0.99        -0.00, 0.99       -0.00
+MuTau_stat17_sig_SRB14                           +0.00, 0.99        -0.00, 0.99       -0.00
+MuTau_stat17_sig_SRB15                           +0.00, 0.99        +0.00, 0.99       -0.03
+MuTau_stat17_sig_SRB2                            +0.00, 0.99        +0.00, 1.01       +0.01
+MuTau_stat17_sig_SRB3                            +0.00, 0.99        -0.00, 0.99       -0.00
+MuTau_stat17_sig_SRB4                            +0.00, 0.99        -0.00, 0.99       +0.00
+MuTau_stat17_sig_SRB5                            +0.00, 0.99        +0.00, 0.99       -0.00
+MuTau_stat17_sig_SRB6                            +0.00, 0.99        -0.00, 0.99       -0.00
+MuTau_stat17_sig_SRB7                            +0.00, 0.99        -0.00, 1.00       +0.01
+MuTau_stat17_sig_SRB8                            +0.00, 0.99        +0.00, 0.99       -0.00
+MuTau_stat17_sig_SRB9                            +0.00, 0.99        -0.00, 0.99       -0.00
+scale                                            +0.09, 0.91        +0.00, 0.94       -0.05
+sigMET                                           +0.00, 0.99        +0.00, 0.99       -0.02
+syst2017_JER                                  * +0.04, 0.74*     * +0.00, 0.86*       -0.10
+syst2017_bTaggingSF                              +0.00, 0.98        -0.00, 0.98       -0.02
+syst2017_muFastSim                               +0.00, 0.99        +0.00, 0.99       -0.09
+syst2017_pileupReweight                          +0.01, 0.99        -0.00, 0.99       -0.01
+syst2017_tauES                                * +0.01, 0.75*     * -0.00, 0.73*       +0.02
+syst2017_tauFastFullSimSF                        +0.00, 0.99        -0.00, 1.05       +0.05
+syst2017_tauIDisoSF                           * +0.00, 0.81*     * -0.00, 0.80*       +0.00
+syst2017_ttbarSF                              * +0.00, 0.80*     * -0.00, 0.74*       +0.06
+syst2017_unclusteredEnergy                    * -0.04, 0.74*        -0.00, 0.98       -0.00
+tauFakeRateJetPartonFlav                      * +0.02, 0.69*        -0.00, 0.97       -0.06

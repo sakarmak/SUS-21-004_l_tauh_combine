@@ -1,0 +1,18 @@
+ <<< Combine >>> 
+>>> method used is FitDiagnostics
+>>> random number generator seed is 123456
+Missing background ModelConfig 'ModelConfig_bonly' in workspace 'w' in file roostats-YPqEFC.root
+Will make one from the signal ModelConfig 'ModelConfig' setting signal strenth 'r' to zero
+  [WARNING] Found [EleTau_stat17_sig_SRB1] at boundary. 
+  [WARNING] Found [EleTau_stat17_sig_SRB6] at boundary. 
+  [WARNING] Found [EleTau_stat17_sig_SRB11] at boundary. 
+  [WARNING] Found [EleTau_stat17_sig_SRB1] at boundary. 
+  [WARNING] Found [EleTau_stat17_sig_SRB6] at boundary. 
+  [WARNING] Found [EleTau_stat17_sig_SRB11] at boundary. 
+  [WARNING] Found [EleTau_stat17_sig_SRB1] at boundary. 
+  [WARNING] Found [EleTau_stat17_sig_SRB6] at boundary. 
+  [WARNING] Found [EleTau_stat17_sig_SRB11] at boundary. 
+
+ --- FitDiagnostics ---
+Best fit r: 0.00230117  -1.13314/+1.20938  (68% CL)
+Done in 0.01 min (cpu), 0.01 min (real)
