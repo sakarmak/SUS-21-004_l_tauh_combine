@@ -1,7 +1,7 @@
  <<< Combine >>> 
 >>> random number generator seed is 123456
 >>> method used is FitDiagnostics
-Missing background ModelConfig 'ModelConfig_bonly' in workspace 'w' in file roostats-9Z27uC.root
+Missing background ModelConfig 'ModelConfig_bonly' in workspace 'w' in file roostats-dcwUS9.root
 Will make one from the signal ModelConfig 'ModelConfig' setting signal strenth 'r' to zero
 SimNLL created with 0 channels, 48 generic constraints, 671 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
   [WARNING] Found [EleTau_stat16_sig_SRB13] at boundary. 
@@ -150,5 +150,5 @@ SimNLL created with 135 channels, 48 generic constraints, 671 fast gaussian cons
   [WARNING] Found [stat2018_sig_SRB14] at boundary. 
 
  --- FitDiagnostics ---
-Best fit r: 0.999881  -0.0795039/+0.0856748  (68% CL)
-Done in 6.90 min (cpu), 6.90 min (real)
+Best fit r: 0.99988  -0.079518/+0.085695  (68% CL)
+Done in 7.05 min (cpu), 7.05 min (real)

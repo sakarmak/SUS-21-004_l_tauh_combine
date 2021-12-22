@@ -1,9 +1,9 @@
  <<< Combine >>> 
 >>> random number generator seed is 123456
 >>> method used is FitDiagnostics
-Missing background ModelConfig 'ModelConfig_bonly' in workspace 'w' in file roostats-a40S4m.root
+Missing background ModelConfig 'ModelConfig_bonly' in workspace 'w' in file roostats-ShuRAY.root
 Will make one from the signal ModelConfig 'ModelConfig' setting signal strenth 'r' to zero
-SimNLL created with 0 channels, 48 generic constraints, 674 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+SimNLL created with 0 channels, 48 generic constraints, 672 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
   [WARNING] Found [EleTau_stat16_sig_SRB13] at boundary. 
   [WARNING] Found [EleTau_stat16_sig_SRB14] at boundary. 
   [WARNING] Found [EleTau_stat16_sig_SRB15] at boundary. 
@@ -52,7 +52,7 @@ SimNLL created with 0 channels, 48 generic constraints, 674 fast gaussian constr
   [WARNING] Found [stat2018_fake_SRB15] at boundary. 
   [WARNING] Found [stat2018_sig_SRB13] at boundary. 
   [WARNING] Found [stat2018_sig_SRB14] at boundary. 
-SimNLL created with 135 channels, 48 generic constraints, 674 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+SimNLL created with 135 channels, 48 generic constraints, 672 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
   [WARNING] Found [EleTau_stat16_sig_SRB13] at boundary. 
   [WARNING] Found [EleTau_stat16_sig_SRB14] at boundary. 
   [WARNING] Found [EleTau_stat16_sig_SRB15] at boundary. 
@@ -151,5 +151,5 @@ SimNLL created with 135 channels, 48 generic constraints, 674 fast gaussian cons
   [WARNING] Found [stat2018_sig_SRB14] at boundary. 
 
  --- FitDiagnostics ---
-Best fit r: -3.04615e-05  -0.0319214/+0.0334709  (68% CL)
-Done in 6.40 min (cpu), 6.40 min (real)
+Best fit r: -3.02381e-05  -0.0319053/+0.0334558  (68% CL)
+Done in 6.24 min (cpu), 6.24 min (real)
